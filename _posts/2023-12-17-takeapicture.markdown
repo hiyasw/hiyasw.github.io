@@ -1,7 +1,7 @@
 ---
 title: Then I take a picture
 date: 2023-12-17 21:05:00 Z
-tags:
+categories:
 - blog
 ---
 
