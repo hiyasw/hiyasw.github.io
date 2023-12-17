@@ -1,10 +1,9 @@
 ---
-layout: page
 title: About
-comments: yes
-permalink: /about/
+permalink: "/about/"
+layout: page
+comments: true
 ---
-
 
 ### Freshman21 is a Jekyll theme.
 

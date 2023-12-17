@@ -1,13 +1,15 @@
 ---
-layout: post
 title: Theme structure
-modified: 2014-12-19
-categories: [articles, Howto]
-tags: 
-  - structure
+date: 2014-12-19 00:00:00 Z
+categories:
+- articles
+- Howto
+tags:
+- structure
+layout: post
+modified: 2014-12-19 00:00:00 Z
 comments: true
 ---
-
 
 ## 1.The structure of freshman21 theme
 

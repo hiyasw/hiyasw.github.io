@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Categories
-permalink: /categories/
+permalink: "/categories/"
+layout: page
 ---
 
 <ul class="tags-box">

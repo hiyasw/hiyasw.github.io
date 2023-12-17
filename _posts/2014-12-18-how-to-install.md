@@ -1,8 +1,11 @@
 ---
-layout: post
 title: How to install this theme
-categories: articles
-tags: [sample-post]
+date: 2014-12-18 00:00:00 Z
+categories:
+- articles
+tags:
+- sample-post
+layout: post
 comments: true
 description: How to install this theme, follow steps, very easy!
 ---
