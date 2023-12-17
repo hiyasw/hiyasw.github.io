@@ -1,20 +1,20 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+title: Shia Pet Diary
+tagline: earnest adventures 
+author: Shirley Wang
+email: hi.shirleywang@gmail.com
+description: "Shia Pet Diary" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Shirley, blog, shia"
 url: "https://hiyasw.github.io/" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
+twitter_username: shirleyshirlw
+github_username:  hiyasw
 disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
+aboutme: shia pet diary. # these are shown on aboutme-sidebar.
+
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
