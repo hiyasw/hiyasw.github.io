@@ -35,6 +35,6 @@ He clicked around and asked me if I had a boyfriend. I said, why? He said, take 
 
 as if that was a winning retort. 
 
-He printed the tickets and said it arrives in Kansas City at 11pm. I winced and he said please understand these are the only spots left. I said, yes yes thank you I for sure understand thank you it’s GREAT. He said, “That’s first class as well.” 
+He printed the tickets and said it arrives in Kansas City at 11pm. I winced and he said please understand these are the only spots left. I said, yes yes thank you I for sure understand thank you it’s GREAT. You’ve been so kind and informative and I know the people here have been impatient and each one endlessly frustrating in their own ways, everyone knew how to help themselves but no one knew how to help each other, so thank you. He said, “I assigned you first class as well.” 
 
-In conclusion I know nothing. I am not better than anyone. In fact I am worse.
+In conclusion I am not better than anyone. In fact I am worse. 
