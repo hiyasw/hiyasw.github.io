@@ -15,7 +15,7 @@ We were all seated on the plane and I was about to fall asleep because it was 4a
 
 People clomped with irritation back into the airport. Some sat in the waiting area, and some formed a line at the front desk. But I didn’t want to wait because I’m tech savvy and know how to expedite things using the internet, and not a weakling. I called American Airlines to change my flight to a different airline leaving from the airport. The person on the phone and I were both calm and softspoken, in a way that acknowledged that her job was probably not ever chill.
 
-And yet, I also do not trust airlines and their convoluted systems and was ready to fight. 
+And yet, I also do not trust airlines and their convoluted systems. If you know how to fight then you should be ready to fight. 
 
 She began to switch me to a United flight, but then the call dropped. I called again. My new collaborator declared switching me was not possible. I don’t like to correct people so I concurred, said goodbye, and hung up. I called again, still calm. New voice put me on hold to ask her supervisor. I observed that some people had moved through the front desk. They did not tell others their results, whether waiting in line was worthy or not. It wasn’t a secret, but to find out you would have to have to inquire, and likely that would have to be a whole conversation, since they are not faceless bots that answer when you push a button, and these types of struggles are individual anyways, any advice would require listening to unnecessary context. Dunno, they would say, my situation is different from yours. I joined in line for the front desk, curious what secret remedy it provided but not willing to ask. 
 
