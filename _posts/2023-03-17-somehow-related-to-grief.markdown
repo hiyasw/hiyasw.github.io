@@ -8,16 +8,14 @@ tags:
 
 A grief conspiracy throughout time 
 
-*Written in 2022*
-
 I often wonder why we don’t run around and shake people screaming: we just went through a pandemic!! 
 
 It feels like most people have forgotten. In the TV show The Leftovers, the world is thrown astray because one day a random blip disappears 2% of the global population. And the people left behind just have to cope somehow. 
 
 ![Screenshot 2024-07-04 at 2.47.07 PM-588d19.png](/uploads/Screenshot%202024-07-04%20at%202.47.07%E2%80%AFPM-588d19.png)
 
-*HBO’s The leftovers= sort of like the Avengers. 
-*
+*HBO’s The leftovers= sort of like the Avengers.*
+
 Many people choose to move on. One group, however, walks around organizing protests where their sole purpose is just to remind others of the people that got blipped away. They don’t want people to stop asking, why the f aren’t we addressing the fact that this random fucking thing happened? 
 
 Even though that group is obviously a cult, I really related to this urge. This need to alert people. I understand it’s a healthy person thing to “move on.” But if you lose someone or something you love, and someone you love dies, how can someone put it aside? What I’m really asking is, to anyone who is trying to move on, what’s wrong with you people. 
@@ -34,7 +32,7 @@ At first it kinda seems like it’s okay to let those feelings guide us. It does
 
 ![Screenshot 2024-07-04 at 2.46.51 PM.png](/uploads/Screenshot%202024-07-04%20at%202.46.51%E2%80%AFPM.png)
 
-*Greta has requested not to be referenced in my writing so often. Sorry greta. *
+*Greta has requested not to be referenced in my writing so often. Sorry greta.*
 
 To think of it as grief being that crazy thing that everyone feels that makes you want to throw your life away or scrap and start anew, more focused - this is BIG, people, let’s not ignore it. 
 
