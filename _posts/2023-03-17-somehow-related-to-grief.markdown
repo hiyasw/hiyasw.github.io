@@ -41,4 +41,4 @@ To think of it as grief being that crazy thing that everyone feels that makes yo
 ![Screenshot 2024-07-04 at 2.46.41 PM.png](/uploads/Screenshot%202024-07-04%20at%202.46.41%E2%80%AFPM.png)
 *Join a cult of grieving today.*
 
-I feel honored to have felt something so large. I never want to feel anything smaller than grief. 
+I feel honored to have felt something so large. I reject anything smaller than the size of grief. 
