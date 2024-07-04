@@ -22,6 +22,8 @@ Even though that group is obviously a cult, I really related to this urge, this 
 
 I was in a grief group over zoom and the counselor said something that annoyed me: This drive to scream in people’s faces, has existed for everyone throughout all of time. In its most recognizable form it’s driven by things that aren’t related to one person’s death. It’s climate change, genocide, homelessness. Everyone’s got a reason or multiple to stand in the middle of a Costco and scream “Wake up SHEEPLE” 
 
+![scream.png](/uploads/scream.png)
+
 When the counselor made that connection between me and people who seem crazy for other reasons, I felt annoyed. People like to say that we can grieve many things. Like you lose ur parent, but also you can lose your job or your car or your spot in the line at the grocery store and on and on and on. 
 
 However when something is too many things it tends to become nothing and what I mean by that is, I have no idea what the word grief means anymore. 
