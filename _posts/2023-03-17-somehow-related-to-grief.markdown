@@ -6,7 +6,7 @@ tags:
 - thanos
 ---
 
-A grief conspiracy throughout time 
+## A grief conspiracy throughout time 
 
 I often wonder why we don’t run around and shake people screaming: we just went through a pandemic!! 
 
