@@ -1,6 +1,6 @@
 ---
 title: Somehow related to grief
-date: 2024-07-04 18:45:00 Z
+date: 2023-03-17 18:45:00 Z
 tags:
 - death
 - thanos
